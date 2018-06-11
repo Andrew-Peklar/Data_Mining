@@ -1,0 +1,3 @@
+- CNN and whaleHogSVMandKNN contain the bulk of model code
+- Remove Duplicates removesduplicate images found in dataset
+- The other two are used to resize and preprocess data and csv's
